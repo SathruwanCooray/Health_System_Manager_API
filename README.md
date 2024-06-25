@@ -2,6 +2,10 @@
 
 This project presents students with the challenge of designing and implementing a Health System API that addresses the complex requirements of modern healthcare management. The API serves as a foundational platform for various healthcare applications, offering essential functionalities for patient management, appointment scheduling, medical record keeping, prescription management, and billing. It is designed with a focus on REST API design and implementation using JAX-RS and JSON parsing with Jackson.
 
+## Application Demonstration
+
+[![Watch the demo video](https://img.shields.io/badge/Watch-Demo%20Video-brightgreen)](https://drive.google.com/file/d/1IEU76ks6MGTVg9rOqsw-mj-SaTLonviX/view?usp=sharing)
+
 ## Features
 
 ### Functionality Overview
